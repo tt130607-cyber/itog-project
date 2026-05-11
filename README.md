@@ -408,7 +408,9 @@ bookwave/
 
 # Локальный запуск проекта
 
-bash
+
+
+```bash
 # Клонировать репозиторий
 git clone https://github.com/username/bookwave.git
 
@@ -420,6 +422,7 @@ npm install
 
 # Запустить docker
 docker compose up --build
+```
 
 ---
 
