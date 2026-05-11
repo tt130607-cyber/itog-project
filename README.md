@@ -253,6 +253,7 @@ GET    /reading-status
 
 # Архитектура системы
 
+```text
 CLIENT (React + TypeScript)
 │
 ├── Pages
@@ -274,11 +275,13 @@ SERVER (Node.js + Express)
         │
         ▼
 PostgreSQL Database
+```
 
 ---
 
 # Структура проекта
 
+```text
 bookwave/
 │
 ├── frontend/
@@ -306,6 +309,7 @@ bookwave/
 ├── docker-compose.yml
 ├── README.md
 └── .env.example
+```
 
 ---
 
