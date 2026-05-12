@@ -270,11 +270,7 @@ DROPPED
 * Prisma ORM
 * JWT
 
-## Дополнительно
 
-* Docker
-* Swagger
-* Firebase / Supabase
 
 ---
 
